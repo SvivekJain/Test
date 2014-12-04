@@ -1,4 +1,5 @@
-Test
+## Test
 ====
 
-A test git repo 
+* A test git repo 
+* Markdown ups
